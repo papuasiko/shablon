@@ -17,9 +17,11 @@ Syntax highlighted code block
 
 - Bulleted
 - List
-<li>jjihn</li>
-<li>fgise</li>
-<li>jkgsneig</li>
+<ul>
+  <li>jjihn</li>
+  <li>fgise</li>
+  <li>jkgsneig</li>
+</ul>
 1. Numbered
 2. List
 
